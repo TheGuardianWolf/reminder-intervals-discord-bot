@@ -1,1 +1,3 @@
-# reminder-intervals-discord-bot
+# Discord Reminder Bot
+
+Uses crontab for intervals.
